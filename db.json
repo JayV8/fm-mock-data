@@ -1,6 +1,4 @@
-/* eslint-disable */
-export const items = [
-    {
+{
         id: 'cd6897cb-acfd-4016-8b53-3f66a5b5fc68',
         folderId: null,
         name: 'Personal',
@@ -254,5 +252,4 @@ export const items = [
         type: 'XLS',
         contents: null,
         description: null,
-    },
-];
+    }
